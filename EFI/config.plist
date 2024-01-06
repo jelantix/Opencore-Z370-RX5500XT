@@ -866,11 +866,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C020513104NLNV9JC</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>ESIzRFVm</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -878,7 +878,7 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DVDZUJV3Q</string>
+			<string></string>
 			<key>SystemUUID</key>
 			<string>789977EC-4013-4992-A3E1-924AD263315E</string>
 		</dict>
